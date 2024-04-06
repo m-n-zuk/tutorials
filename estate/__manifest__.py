@@ -9,10 +9,10 @@
     ],
 
     'data': [
-        'views/ir.model.access.csv',
-
-        'views/estate_menus.xml',
-        'views/estate_property_views.xml',
+        # 'views/ir.model.access.csv',
+        #
+        # 'views/estate_menus.xml',
+        # 'views/estate_property_views.xml',
 
     ],
 

@@ -18,7 +18,5 @@
 <!--                    <field name="garden">name</field>-->
 <!--                    <field name="garden_area">name</field>-->
 <!--                    <field name="garden_orientation">name</field>-->
-
-
     </record>
 </odoo>
